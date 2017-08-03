@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+    cout<<"Hey my name is " <<endl; // creates a newline and moves to the newline on the console
+    cout<<"Khalid\nwhat is yours?"; // \n moves to the newline, allows us to write it within the quotes
+    return 0;
+}
+/*---------------output is--------------
+Hey my name is
+Khalid
+what is yours?
+
+*/
+
+
