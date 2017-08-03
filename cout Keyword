@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{   
+    cout<<" Hey how are you doing " ; //This is a statment 
+    cout<<" Good how about you?"; //No newline is created
+    return 0;
+}
+//The keyword cout , The << operator inserts the data that follows it into the stream that precedes it. 
+//In the examples above, it inserted the literal string Output sentence.
+//Notice the " ", they are not printed onto the screan but rather anything between them are.
+//output = Hey how are you doing Good how about you?
