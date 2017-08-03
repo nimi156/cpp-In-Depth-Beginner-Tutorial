@@ -1,0 +1,11 @@
+#include <iostream>     // Pre-processor direactive, includes a file that is used later on
+using namespace std;    // Using Standard Library, includes a library
+                        // cout and endl are keywords reserved  in c++.
+                        // cout, mean console output, used to print text between the " " onto the screen or console.
+                        // endl, flushes the stream to end, by creating a newline
+int main () // ------------------------- | Where the computer starts
+{                                      //| Function, things that the computer does,                                     
+    cout<<"Hello World" << endl;       //| inside is are statmentes,    
+                                       //| which ends with a ;
+return 0;                              //| return 0 if the program worked with any errors                              
+}          //----------------------------| 
